@@ -9,24 +9,8 @@
 
 ### (1) Vbox
 
-- 
+- https://www.virtualbox.org/ 에서 다운로드
+
+- https://www.virtualbox.org/wiki/End-user_documentation
 
 - 
-
-  ```shell
-  $ git init
-  ```
-
-### (2) VM
-
-- 
-
-  ``` shell
-  
-  ```
-
-- 
-
-  ```shell
-  
-  ```
